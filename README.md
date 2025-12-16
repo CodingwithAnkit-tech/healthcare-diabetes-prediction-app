@@ -57,7 +57,7 @@ The project applies data preprocessing, normalization, classification models, an
 
 # 📁 Project Structure
 
-healthcare-predictive-analytics/
+- healthcare-predictive-analytics/
 │
 ├── data/
 │   ├── raw/
@@ -132,3 +132,4 @@ Healthcare Predictive Analytics demonstrates how data-driven approaches can supp
 # ✨ Motivation Note (as you like 😉)
 
 Every dataset tells a story — learning to read it can help change lives.
+
